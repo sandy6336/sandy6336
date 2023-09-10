@@ -17,6 +17,6 @@ I'm Currently looking for Embedded Engineer role and Web Developer role<br>I'm C
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sandy6336&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Sandy6336&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
